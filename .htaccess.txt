@@ -1,0 +1,3 @@
+RewriteEngine On # site location RewriteRule ^(.*) https://c-out.tistory.com/$1 [R=301,L]
+
+
