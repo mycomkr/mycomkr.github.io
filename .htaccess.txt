@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^(.*)$ https://www.mycom.kr/$1 [R=301,L]
+
+
+
+ 
