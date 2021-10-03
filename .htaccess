@@ -1,3 +1,3 @@
 RewriteEngine On
 # site location 
-RewriteRule ^(.*) http://c-out.tistory.com/$1 [R=301,L]
+RewriteRule ^(.*) http://www.mycom.kr/$1 [R=301,L]
